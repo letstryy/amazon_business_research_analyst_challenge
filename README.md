@@ -1,1 +1,1 @@
-# amazon_business_research_analyst_challenge
+# Amazon Business Research Analyst Challenge
